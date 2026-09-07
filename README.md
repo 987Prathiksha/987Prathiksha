@@ -17,10 +17,10 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), React.js |
-| **Backend & Routing** | Node.js, Express.js, JWT Authentication |
-| **Databases** | MongoDB, Mongoose Schemas, Core SQL concepts |
-| **Tools & Platforms** | Git, GitHub, VS Code, Environment Management (`.env`) |
+| **Frontend Development** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) |
+| **Backend & Routing** | ![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![JWT](https://shields.io) |
+| **Databases** | ![MongoDB](https://shields.io) ![MySQL](https://shields.io) |
+| **Tools & Platforms** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) |
 
 ### 🚀 Highlighted Project
 - 🏥 **[Smart Healthcare Appointment System](https://github.com)**  
