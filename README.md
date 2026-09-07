@@ -2,7 +2,7 @@
 <div align="center">
   <br />
   <h1>👋 Hi, I'm Pratheeksha D</h1>
-  <p><h3>Full-Stack Web Developer | Data Science Student</h3></p>
+  <p><h3>Full-Stack Web Developer | Computer Science Student</h3></p>
   <p>Building clean backend architectures, secure systems, and data-driven user experiences.</p>
 </div>
 
